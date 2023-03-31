@@ -1,8 +1,12 @@
 # TIL
 > Today I Learned
 
-* TILs: 1
-* Topics: 1
+* TILs: 2
+* Topics: 2
+
+## Prometheus
+
+* [`metric_types`](Prometheus/metric_types.md) Different Metrics Types in Prometheus (2023-03-31)
 
 ## Python
 
